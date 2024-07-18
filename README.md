@@ -8,6 +8,8 @@ Here you will find
 * XXXXXX The FUJI results in json
 * XXXXXX
 
+The deeper analysis of the FUIJ results, and recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). 
+
 ## FUJI tool
 The FUJI tests we are using are carried out from https://www.f-uji.net/?action=test, where you input the URL to a dataset. The tool then looks for metadata that cover the different items of F A I R. 
 
