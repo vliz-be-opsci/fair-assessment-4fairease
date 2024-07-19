@@ -4,11 +4,10 @@ to be moved to FE GH when we have a repo there
 For Dev Cycle 4 we carried out an assessment of the FAIRness of datasets being used in FAIR EASE. This built on work started in Dev Cycle 1. See the related confluence pages [for the paper](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/341311604/D4T12+-+Paper+preparation+and+Deliver+on+FAIR+DATA+AND+METHODS) and [for D6.5](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/347799553/D4T11+-+Writing+the+D6.5).
 
 Here you will find
-* XXXXXX A spreadsheet of the datasets we are working on. If you add to this spreadsheet, please do not upload a new spreadsheet but instead add to this one and push it back onto here
-* XXXXXX The FUJI results in json
-* XXXXXX
+* XXXXXX A spreadsheet of the datasets we are working on. *If you add to this spreadsheet*, **please do not upload a new spreadsheet** *but instead pull/download this one, add to it, and then upload/push it back here* and **add your name and a brief what you added to the commit box that pops up**. 
+* The FUJI results - all the json files. Which dataset they belong to is recorded in the spreadsheet. 
 
-The deeper analysis of the FUIJ results, and recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). 
+The deeper analysis of the FUIJ results, and running recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). Once this work has completed, we will post a summary here. 
 
 ## FUJI tool
 The FUJI tests we are using are carried out from https://www.f-uji.net/?action=test, where you input the URL to a dataset. The tool then looks for metadata that cover the different items of F A I R. 
