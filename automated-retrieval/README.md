@@ -65,7 +65,7 @@ In detail this contains:
 * `./dumps/00N/` folder each containing
   * `./dumps/00N/00-url-info.txt`          --> the startpoint-url for the content of this folder
   * `./dumps/00N/01-sema-got-content.ttl`  --> the retrieved structural triple-information (if any)
-  * `./dumps/00N/trace.csv                 --> a file that describes the various retrieved files leading up to that
+  * `./dumps/00N/trace.csv`                --> a file that describes the various retrieved files leading up to that
   * `./dumps/00N/*.*                       --> actual retrieved file content as described in `trace.csv`
  
 Note: Some of the metadata from the trace.csv is additionally stored as file-attributes on the produced files as well.  These can be traced in the file system like this:
