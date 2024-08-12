@@ -1,0 +1,2 @@
+pyyaml
+sema @ git+https://github.com/vliz-be-opsci/py-sema.git@fix/new-discovery-requests

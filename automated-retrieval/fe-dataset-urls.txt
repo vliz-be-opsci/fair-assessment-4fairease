@@ -1,0 +1,11 @@
+https://www.seanoe.org/data/00311/42182/
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/10.24381/cds.bd0915c6?tab=overview
+https://data.emobon.embrc.eu/observatory-nrmcb-crate
+https://www.eurobis.org/imis?module=dataset&dasid=1998
+https://www.eurobis.org/imis?module=dataset&dasid=1998&show=eml
+https://marineinfo.org/id/dataset/1998
+https://doi.org/10.17882/46219 
+https://data.marine.copernicus.eu/product/INSITU_GLO_PHY_TS_DISCRETE_MY_013_001/description
+https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/products-algorithms
+https://sentinels.copernicus.eu/web/sentinel/data-products/-/asset_publisher/fp37fc19FN8F/content/sentinel-5-precursor-level-2-sulphur-dioxide
+
